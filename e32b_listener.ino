@@ -14,7 +14,7 @@
 
 */
 #define VERSION "V1.3"
-#define BANNER "Techninia-Connware LoRA Channel Monitor"
+#define BANNER "LoRA Channel Monitor"
 #define __FILENAME__ (strrchr(__FILE__, '\\') ? strrchr(__FILE__, '\\') + 1 : __FILE__)
 #include <EEPROM.h>
 #include <string.h>
